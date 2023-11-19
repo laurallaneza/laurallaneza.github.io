@@ -21,7 +21,7 @@
     <section id="about">
     <h2>My Story</h2>
     <p>I stumbled into the world of copywriting by accident but have been falling in love with it ever since. Currently, I'm honing my skills at De La Cruz & Associates in Puerto Rico. My journey began as a summer intern, evolved into a contract position, and recently blossomed into a full-time role as a Jr. Copywriter.</p>
-         <img src="your-photo.jpg" alt="Your photo" class="bio-photo">
+         <img src="my-photo.jpg" alt="My Photo" class="bio-photo">
 </section>
 
 <section id="work">
@@ -38,9 +38,3 @@
 <footer>
     <p>© 2023 Laura Llaneza Schalen. All Rights Reserved.</p>
 </footer>
-</body>
-</html>
-
-
-</body>
-</html>
